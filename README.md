@@ -16,10 +16,10 @@ Identified key features impacting sales, such as product visibility, MRP, and st
 
 Modeling:-
 Implemented and evaluated multiple regression models, including:
-  -Random Forest
-  -Gradient Boosting
-  -XGBoost
-  -LightGBM
+  Random Forest
+  Gradient Boosting
+  XGBoost
+  LightGBM
 Achieved high accuracy and low error rates, improving sales prediction accuracy significantly.
 
 Technologies Used:-
